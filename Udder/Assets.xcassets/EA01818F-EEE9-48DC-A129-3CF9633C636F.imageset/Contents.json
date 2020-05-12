@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "EA01818F-EEE9-48DC-A129-3CF9633C636F.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
